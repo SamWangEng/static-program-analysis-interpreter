@@ -1,0 +1,8 @@
+int p=1;
+int q=2;
+int z;
+if(p<q)
+{z=3;}
+else
+{p=2;}
+int y=z;

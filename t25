@@ -1,0 +1,4 @@
+int x;
+int y=0;
+while (y<100){x=y;y=y+1;}
+print x;

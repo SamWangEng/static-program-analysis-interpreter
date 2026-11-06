@@ -1,0 +1,3 @@
+int x=readint;
+int y=readint;
+print x+y;

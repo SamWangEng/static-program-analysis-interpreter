@@ -1,0 +1,4 @@
+int x=0;
+int z=5;
+int w=x*z;
+x=x/w;

@@ -1,0 +1,4 @@
+final int x = 1; final int y = 2; final int z = x + y;
+int w;
+if (z > 0) { w = 3; }
+int v = w;

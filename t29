@@ -1,0 +1,9 @@
+int p=readint;
+int q=1;
+int r;
+while(q<p)
+{
+q=q+1;
+r=q*q;
+}
+int y=r;
